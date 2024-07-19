@@ -41,6 +41,3 @@ The Details Page offers a granular view of the sales data, including:
 Customer Details: Full tables listing all customer details
 Market Details: Full tables listing all market details
 All Sales Details: Comprehensive tables with all sales data for deeper insights
-
-
-# Power BI Dashboard
